@@ -1,1 +1,1 @@
-Puedes correr el programa con npm run dev![preview](image.png)
+Puedes correr el programa con npm install & npm run dev![preview](image.png)
